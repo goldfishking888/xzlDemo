@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>jobList</key>
+        <array>
+            <string>IT|互联网|通信|电子</string>
+            <string>金融|银行|保险|会计</string>
+            <string>房产|建筑建设|物业</string>
+            <string>广告|传媒|印刷出版</string>
+            <string>消费零售|贸易|交通物流</string>
+            <string>加工制造|仪表设备</string>
+            <string>管理咨询|教育科研|中介服务</string>
+            <string>医药生物|医疗保健</string>
+            <string>酒店旅游</string>
+            <string>政府|非赢利机构|科研|其他</string>
+            <string>所有行业</string>
+        </array>
+    </dict>
+</plist>

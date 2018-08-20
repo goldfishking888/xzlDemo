@@ -1,0 +1,61 @@
+//
+// Prefix header for all source files of the 'JobKnow' target in the 'JobKnow' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import "Config.h"
+#import "JSONKit.h"
+#import "SaveJob.h"
+#import "PublicDB.h"
+#import "TipsView.h"
+#import "CityInfo.h"
+#import "OpenUDID.h"
+#import "ActivetView.h"
+#import "BaiduMobStat.h"
+#import "MBProgressHUD.h"
+#import "ASIHTTPRequest.h"
+#import "ResumeOperation.h"
+#import "OLGhostAlertView.h"
+#import "NetWorkConnection.h"
+#import "BaseViewController.h"
+#import <MapKit/MapKit.h>
+#import <Security/Security.h>
+#import <MessageUI/MessageUI.h>
+#import <QuartzCore/QuartzCore.h>
+#import <Foundation/Foundation.h>
+#import <CoreLocation/CoreLocation.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import "MyControl.h"//新增
+#import "UIColor+SPB.h"
+#import "NSObject+ModelHelper.h"
+#import "NSString+SPB.h"
+#import "HR_LoginSharedTool.h"
+#import "XZLUtil.h"
+#import "ASIFormDataRequest.h"
+#import "NSString+MD5.h"
+#import "XZLNetWorkUtil.h"
+#import "PYSearch.h"//搜索
+#import "UIKit+AFNetworking.h"
+#import "UIView+Frame.h"
+#import "UIButton+Size.h"
+#import "UIImage+CES.h"
+#import "YYModel.h"
+#import "UIView+Frame.h"
+#import "XZLCodeFileTool.h"
+#import "XZLUserInfoTool.h"
+#import "NSString+NSStringCategory.h"
+#import "XZLNoDataView.h"
+#import "NSObject+JSON.h"
+#import "SRAlertView.h"
+
+
+
+#define RGBA(r, g, b, a) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:a]
+#endif

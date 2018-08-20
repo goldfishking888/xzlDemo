@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>jobList</key>
+	<array>
+		<string>不限</string>
+		<string>高级管理</string>
+		<string>计算机软件/系统集成</string>
+		<string>电子/通讯类专业人员</string>
+		<string>销售/业务类</string>
+		<string>市场/营销</string>
+		<string>客户服务/售前/售后支持</string>
+		<string>人力资源</string>
+		<string>文职类</string>
+		<string>翻译类(口译与笔译)</string>
+		<string>财务/审计/统计/税务</string>
+		<string>美术/设计/创意</string>
+		<string>生产/加工/制造</string>
+		<string>金融/证券/期货/投资</string>
+		<string>律师/法务/合规</string>
+		<string>机械专业人员</string>
+		<string>建筑装修/市政建设/土建类</string>
+		<string>咨询/顾问</string>
+		<string>医疗/护理/保健类</string>
+		<string>技工类</string>
+		<string>教育/培训</string>
+		<string>海洋</string>
+		<string>物流/仓储</string>
+		<string>环境科学/环保</string>
+		<string>生物/制药/医疗器械</string>
+		<string>互联网/电子商务/网游</string>
+		<string>IT支持及其他</string>
+		<string>电子/电气/半导体/仪器仪表：</string>
+		<string>销售管理</string>
+		<string>销售支持/商务</string>
+		<string>公关/媒介</string>
+		<string>行政/后勤/文秘</string>
+		<string>广告/会展</string>
+		<string>服装/纺织/食品/饮料</string>
+		<string>银行</string>
+		<string>保险</string>
+		<string>房地产开发/经纪/中介</string>
+		<string>物业管理</string>
+		<string>质控/安防</string>
+		<string>汽车/摩托车制造</string>
+		<string>汽车销售与服务</string>
+		<string>传媒/影视/报刊/出版/印刷</string>
+		<string>保安/家政/普通劳动力</string>
+		<string>保健/美容/美发/健身</string>
+		<string>酒店/餐饮/旅游/娱乐</string>
+		<string>零售/百货/超市</string>
+		<string>交通运输</string>
+		<string>采购/贸易</string>
+		<string>能源/矿产/地质勘查</string>
+		<string>公务员/事业单位/科研机构</string>
+		<string>化工</string>
+		<string>农/林/牧/渔业</string>
+		<string>毕业生/实习生/培训生</string>
+		<string>其他专业人员</string>
+	</array>
+</dict>
+</plist>
